@@ -1,0 +1,5 @@
+{
+  "name": "Personal AI Chat Assistant",
+  "description": "A sleek and responsive chat application powered by the Gemini API. Engage in real-time, streaming conversations with a personal AI assistant.",
+  "requestFramePermissions": []
+}
